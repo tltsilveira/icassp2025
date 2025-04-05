@@ -6,4 +6,5 @@
 <!-- 
 - Colab code for the "SWHDC module" part: https://colab.research.google.com/drive/1UrDNxQg_skI3wGFiv2DBWbxZBLe0uMHS?usp=sharing
 - Colab code for the "Rationale of EquiConvs" part: https://colab.research.google.com/drive/1ExiK-tmdf80fOL9jhgeEzrlMaKWKBs7k?usp=sharing
+- Colab code for the "Depth and 3DoF+" part: https://colab.research.google.com/drive/1mtspm0fGW0FmvKKEUbIUEjBUlFocIB-a?usp=sharing
 -->
