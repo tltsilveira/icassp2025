@@ -3,7 +3,7 @@
 ### Slides
 - Presentation: https://docs.google.com/presentation/d/e/2PACX-1vRydzKFN26H4tja_0-UNHoz0XYxj9925tBWa48LAlbr-uaCBtsOMsoM1dULC7BGBvp5O_HY6evdQSBm/pub?start=false&loop=false&delayms=3000
 -->
-### Source codes for the hands-on labs
+### Source code for the hands-on labs
 - Colab code for the "The Spherical Imaging Model" part: https://colab.research.google.com/drive/1uORxoIq9Z36mNJlkKNiXeb7pSEUDlYSY?usp=sharing
 - Colab code for the "ERP and 3DoF navigation" part: https://colab.research.google.com/drive/1dMxMnM6DVVDchYzkpKg-Og_gfUrEWWay?usp=sharing
 - Colab code for the "ERP and Narrow-FoV Imagery" part: https://colab.research.google.com/drive/1GTFuhZ9CkM1aRRbuH9y5EcVv3wiFIkZX?usp=sharing
